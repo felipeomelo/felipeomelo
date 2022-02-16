@@ -3,7 +3,7 @@
 - 🚀 Atualmente, sou Desenvolvedor Web Full Stack em formação na Cubos Academy 🚀 
 - 🎙️ Me comunico bem em Inglês e Francês 🇫🇷 🇺🇸
 - 💻 Life Long Learning is my beach! 🏖️
-- 📨 Contate-me através do e-mail: felipe.o.melo@hotmail.com 📬
+- 📬 Contate-me através do e-mail: felipe.o.melo@hotmail.com 
 
 <!---
 felipeomelo/felipeomelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
