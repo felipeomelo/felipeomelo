@@ -2,7 +2,8 @@
 - 🌱👀🌱 Quase um Engenheiro Agrônomo, mas a paixão pelo universo da tecnologia falou mais alto 🤩  
 - 🚀 Atualmente, sou Desenvolvedor Web Full Stack em formação na Cubos Academy 🚀 
 - 🎙️ Me comunico bem em Inglês e Francês 🇫🇷 🇺🇸
-- 💻 Life Long Learning is my beach! 🏖️
+- 💻 Lifelong Learning is my beach! 🏖️
+
 - 📬 Contate-me através do e-mail: felipe.o.melo@hotmail.com 
 
 <!---
