@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/felipeomelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeomelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeomelo&layout=compact&langs_count=7&theme=dark"/>
-  ![Snake animation](https://github.com/felipeomelo/felipeomelo/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
