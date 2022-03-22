@@ -1,8 +1,8 @@
-- 👋 Olá, seja bem-vindo(a)! Eu sou o Felipe!
-- 🌱👀🌱 Quase um Engenheiro Agrônomo, mas a paixão pelo universo da tecnologia falou mais alto 🤩  
-- 🚀 Atualmente, sou Desenvolvedor Web Full Stack em formação na Cubos Academy 🚀 
-- 🎙️ Me comunico bem em Inglês e Francês 🇫🇷 🇺🇸
-- 💻 Lifelong Learning is my beach! 🏖️
+- Olá, seja bem-vindo(a)! Eu sou o Felipe! 👋 
+- Quase um Engenheiro Agrônomo, mas a paixão pelo universo da tecnologia falou mais alto 🌱👀🌱 
+- Atualmente, sou Desenvolvedor Full Stack em formação na Cubos Academy 🚀 
+- Me comunico bem em Inglês e Francês 🇫🇷 🇺🇸
+- Lifelong Learning is my beach! 🏖️
 
 
 <!---
